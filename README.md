@@ -1,13 +1,13 @@
 # [Christopher Paro](https://www.linkedin.com/in/christopher-paro-47671a5b/)
 
-### I enjoy finding solutions that solve complex problems. Every solution has a problem! wait... 🤔
+<!-- ### I enjoy finding solutions that solve complex problems. Every solution has a problem! wait... 🤔
 
 - 👨‍💻 Currently architecting systems that will help us find homes quicker and easier!
 - 🏡 8+ years working in real estate tech
 - 📚 Learning new things every day is my passion
 
 <br />
-<br />
+<br /> -->
 
 ## Languages and Tools
 
