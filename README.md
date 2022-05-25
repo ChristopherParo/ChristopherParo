@@ -9,8 +9,7 @@
 <br />
 <br /> -->
 
-### Languages and Tools
-
+<a href="https://github.com/ChristopherParo/ChristopherParo"><img align="center" src="https://github-readme-stats.vercel.app/api?username=christopherparo&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&hide=stars,prs,contribs" alt="Sajee's github stats" /></a>
 <p align="left">
 	<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
 		<img
@@ -82,8 +81,3 @@
 	</a>
 </p>
 
-
-<br />
-<br />
-
-<a href="https://github.com/ChristopherParo/ChristopherParo"><img align="center" src="https://github-readme-stats.vercel.app/api?username=christopherparo&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&hide=stars,prs,contribs" alt="Sajee's github stats" /></a>
